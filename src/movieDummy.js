@@ -17,7 +17,7 @@ export const movies = {
         "original_language": "en",
         "original_title": "Meg 2: The Trench",
         "overview": "전 세계에서 가장 깊은 마리아나 해구, 역사상 가장 거대하고 무자비한 포식자가 도사리는 그곳에서 강철 다이버 ‘조나스’(제이슨 스타뎀)가 더 맹렬하게 돌아온 ‘메가로돈’과 짜릿한 대결을 펼치는 액션 어드벤처",
-        "popularity": 2429.447,
+        "popularity": 2429.44,
         "poster_path": "/cbAHK6Vrt0GClMRUxH8TsgC2JqL.jpg",
         "release_date": "2023-08-15",
         "title": "메가로돈 2",
